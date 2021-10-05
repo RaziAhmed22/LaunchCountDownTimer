@@ -1,0 +1,7 @@
+.Card{
+  background-image: linear-gradient(to bottom, rgba(30, 31, 41), rgba(97, 81, 146));
+  /*background: rgba(30, 31, 41);*/
+  color: rgb(241, 106, 140);
+  font-size: 100px;
+  font-family: 'Red Hat Text', sans-serif;
+}

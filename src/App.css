@@ -1,0 +1,25 @@
+.CountDownTimer{
+  background-image: linear-gradient(to bottom, rgba(53, 0, 55), rgba(152, 51, 82));
+  /*background-image: url('./bg-stars.svg');*/
+  /*background-image: linear-gradient(to bottom, rgba(53, 0, 55),rgba(152, 51, 82)), url('./bg-stars.svg');*/
+  font-family: 'Red Hat Text', sans-serif;
+  color: white; 
+  height: 100%;
+  width: 100%;
+  letter-spacing: 2px;
+}
+h1{
+   background-image: url('./bg-stars.svg');
+}
+
+.App{
+  background-image: url('./bg-stars.svg');
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+p{
+  font-family: 'Red Hat Text', sans-serif;
+  color: #161722 ;
+}

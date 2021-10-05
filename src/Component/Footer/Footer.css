@@ -1,0 +1,21 @@
+.Footer{
+	background-image:url('./pattern-hills.svg') ;
+	margin-top: 40px;
+	padding: 69px;
+	background-repeat: no-repeat;
+}
+.facebook svg {
+ width: 30px;
+ height: 30px;
+}
+.instagram svg {
+ width: 30px;
+ height: 30px;
+}
+.twitter svg{
+	width: 30px;
+ 	height: 30px;
+}
+svg:hover{
+	color: rgb(241, 106, 140);
+}
